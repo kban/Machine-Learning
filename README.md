@@ -12,3 +12,7 @@ This repo contains following files and folders:</br>
 3) Machine Learning Course Project.htm - HTML version of my analysis. NOTE: you should download "Machine Learning Course Project_files" folder too to see attached to this .html pictures</br>
 4) Machine Learning Course Project.docx- DOC version of my analysis.</br>
 5) Machine Learning Course Project_files folder - this folder contains necessary images for the Machine Learning Course Project.htm.</br>
+
+#How to use
+<b>1)</b> Download <b>"machineLearningCourseProject.R"</b> file from this repo into your local machine</br>
+<b>2)</b> Run R studio and load <b>"machineLearningCourseProject.r"</b> file using command 'source("machineLearningCourseProject.R")'. Once it loaded, script will run automatically.
